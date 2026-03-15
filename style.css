@@ -1,36 +1,41 @@
 body{
-font-family:Arial;
+font-family: Arial;
 margin:0;
 background:#fff;
 }
 
 header{
+background:#ffb6c1;
+padding:20px;
 display:flex;
 justify-content:space-between;
 align-items:center;
-padding:20px;
-background:#ffb6c1;
 }
 
 nav a{
-margin:10px;
+margin-left:15px;
 text-decoration:none;
-color:#000;
+color:black;
 font-weight:bold;
 }
 
 .hero{
-text-align:center;
-padding:80px;
 background:#ffe4ec;
+text-align:center;
+padding:60px;
 }
 
 .btn{
 background:#ff69b4;
+padding:12px 20px;
 color:white;
-padding:12px 25px;
 text-decoration:none;
-border-radius:5px;
+border-radius:6px;
+}
+
+.title{
+text-align:center;
+margin-top:40px;
 }
 
 #product-list{
@@ -52,3 +57,10 @@ height:200px;
 object-fit:cover;
 }
 
+button{
+background:#ff69b4;
+border:none;
+padding:10px 15px;
+color:white;
+cursor:pointer;
+}
