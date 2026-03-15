@@ -1,0 +1,28 @@
+{
+"products":[
+{
+"id":1,
+"name":"Pink Designer Lace",
+"category":"laces",
+"price":120,
+"stock":25,
+"description":"Premium decorative lace.",
+"images":[
+"images/products/lace1/1.jpg",
+"images/products/lace1/2.jpg"
+]
+},
+
+{
+"id":2,
+"name":"Golden Patch",
+"category":"patches",
+"price":80,
+"stock":10,
+"description":"Elegant embroidered patch.",
+"images":[
+"images/products/patch1/1.jpg"
+]
+}
+]
+}
