@@ -1,28 +1,29 @@
 {
 "products":[
+
 {
-"id":1,
-"name":"Pink Designer Lace",
-"category":"laces",
+"name":"Pink Lace",
 "price":120,
-"stock":25,
-"description":"Premium decorative lace.",
 "images":[
-"images/products/lace1/1.jpg",
-"images/products/lace1/2.jpg"
+"https://images.unsplash.com/photo-1585386959984-a4155224a1ad"
 ]
 },
 
 {
-"id":2,
-"name":"Golden Patch",
-"category":"patches",
-"price":80,
-"stock":10,
-"description":"Elegant embroidered patch.",
+"name":"Designer Patch",
+"price":90,
 "images":[
-"images/products/patch1/1.jpg"
+"https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf"
+]
+},
+
+{
+"name":"Golden Badge",
+"price":150,
+"images":[
+"https://images.unsplash.com/photo-1593032465175-481ac7f401a0"
 ]
 }
+
 ]
 }
